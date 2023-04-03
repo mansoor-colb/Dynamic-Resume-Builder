@@ -1,3 +1,6 @@
+# Dynamic Resume Builder
+# Project Title
+
 Dynamic Resume Builder is a web application that enables users to create resumes in minutes. 
 With this application, users can easily customize their resume to fit their career objectives and showcase their skills and achievements.
 
