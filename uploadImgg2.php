@@ -7,6 +7,7 @@
 	// move_uploaded_file($sourcePath,$targetPathtwo);
 
 	move_uploaded_file($sourcePath,$targetPath);
+
 		// copy("photo/".$_FILES['file']['name'],"cv/allcv/photo".$_FILES['file']['name']);// Moving Uploaded file
 
 	 // Moving Uploaded file
